@@ -1,16 +1,23 @@
-## Hi there 👋
+salut
 
 <!--
 **yao726907/yao726907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur des projets open-source.
+- 🌱 J'apprends actuellement JavaScript et TypeScript.
+- 👯 Je cherche à collaborer sur des projets de développement web innovants.
+- 🤔 J'ai besoin d'aide pour maîtriser l'apprentissage automatique.
+- 💬 N'hésitez pas à me poser des questions sur le développement web et les astuces GitHub.
+- 📫 Comment me contacter : yao726907@example.com
+- 😄 Pronoms : they/them
+- ⚡ Fait amusant : J'adore jouer aux échecs et explorer de nouvelles technologies.
+
+## Projets
+
+Liste de mes projets notables.
+
+## Licence
+
+Ce projet est sous licence MIT.
