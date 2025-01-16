@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fait amusant : J'adore jouer aux échecs et explorer de nouvelles technologies.
 
 ## Projets
-
+créativité 
 Liste de mes projets notables.
-
+lien m3u 
 ## Licence
 
 Ce projet est sous licence MIT.
