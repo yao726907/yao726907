@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Je cherche à collaborer sur des projets de développement web innovants.
 - 🤔 J'ai besoin d'aide pour maîtriser l'apprentissage automatique.
 - 💬 N'hésitez pas à me poser des questions sur le développement web et les astuces GitHub.
-- 📫 Comment me contacter : yao726907@example.com
+- 📫 Comment me contacter : yaoabdoulrazak@gmail.com
 - 😄 Pronoms : they/them
 - ⚡ Fait amusant : J'adore jouer aux échecs et explorer de nouvelles technologies.
 
